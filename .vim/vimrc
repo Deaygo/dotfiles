@@ -1,0 +1,12 @@
+call pathogen#runtime_append_all_bundles()
+call pathogen#helptags()
+
+set tabstop=4
+set shiftwidth=4
+set expandtab
+
+" turn on airline by default
+set laststatus=2
+
+" force terminal colours to be done for vim
+set t_Co=256

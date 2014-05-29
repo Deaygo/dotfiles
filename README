@@ -1,0 +1,12 @@
+Installation:
+
+    git clone git://github.com/deaygo/dotfiles.git
+
+Create symlinks:
+
+    ln -s ~/dotfiles/.vim/vimrc ~/.vimrc
+    ln -s ~/dotfiles/.vim ~/.vim
+    ln -s ~/dotfiles/.i3 ~/.i3
+    ln -s ~/dotfiles/.bash_aliases ~/.bash_aliases
+    ln -s ~/dotfiles/.bashrc ~/.bashrc
+    ln -s ~/dotfiles/bin ~/bin
