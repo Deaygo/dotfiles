@@ -10,3 +10,5 @@ set laststatus=2
 
 " force terminal colours to be done for vim
 set t_Co=256
+
+colorscheme badwolf
